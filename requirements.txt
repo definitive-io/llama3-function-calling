@@ -183,7 +183,7 @@ peewee==3.17.3
 permchain==0.0.6
 pexpect==4.8.0
 pickleshare==0.7.5
-pillow==10.2.0
+pillow==10.3.0
 pinecone-client==3.2.2
 playwright==1.40.0
 plotly==5.21.0
