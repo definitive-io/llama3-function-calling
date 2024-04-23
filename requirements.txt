@@ -275,7 +275,7 @@ uvloop==0.19.0
 validators==0.22.0
 watchfiles==0.21.0
 wcwidth==0.2.5
-weasyprint==61.0
+weasyprint==61.2
 webdriver-manager==4.0.1
 webencodings==0.5.1
 websocket-client==1.4.1
