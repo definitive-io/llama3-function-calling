@@ -124,7 +124,7 @@ def main():
     # Display the title and introduction of the application
     st.title("Groqing the Stock Market with Llama 3")
     multiline_text = """
-    Welcome! This application is a finance assistant that analyzes and compares stocks and stock prices. You can ask for specific stock information or historical prices. For example, you can ask "What is the current price of Meta stock?" or "Show me the historical prices of Apple vs Microsoft stock over the past 6 months.".
+    Try to ask it "What is the current price of Meta stock?" or "Show me the historical prices of Apple vs Microsoft stock over the past 6 months.".
     """
 
     st.markdown(multiline_text, unsafe_allow_html=True)
